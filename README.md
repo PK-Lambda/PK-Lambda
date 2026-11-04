@@ -1,31 +1,34 @@
 ## Hi there 👋
 
-👨🏻‍💻  A Little Bit About Me and My Interests
+```yaml
 
 name: Peter Sobko
 located_in: Auckland, New Zealand
-current_job: Business Development Manager
+current_job: BDM & Founder
+
 education:
-  [
-    "Currently studying part-time to become a Full-Stack Engineer", 
-    "Master's in Business Administration from the University of Auckland",
-    "Bachelor's in Chemical Sciences from the University of Auckland",
-  ]
-Founder: Arodly
+  - "Full-Stack Engineer | Odin Project"
+  - "MBA | University of Auckland"
+  - "BSc Chemical Sciences | University of Auckland"
 
-fields_of_interests:
-  [
-    "Full-stack Web Development",
-    "Marketing",
-    "Psychology",
-  ]
+founder: Arodly
+
+fields_of_interest:
+  - "Full-Stack Web Development"
+  - "Marketing & Business"
+  - "Consumer Psychology"
+  - "C & Systems Programming"
+
 technical_background:
-  [
-    "Odin Project - Foundations (in-progress)"
-    "Odin Project - Full Stack JavaScript (in-progress)",
-  ]
-  
-2026 Goal: ["Complete Odin Project Foundations."]
-hobbies: ["Code", "Zwift", "Read Non-fiction", "Meet People", "Invest", "Play with my cat" ]
+  - "The Odin Project | Foundations (in progress)"
+  - "The Odin Project | Full Stack JavaScript (in progress)"
 
+hobbies:
+  - "Coding"
+  - "Zwift"
+  - "Reading Non-Fiction"
+  - "Meeting People"
+  - "Investing"
+  - "Playing with my cat"
+```
 
