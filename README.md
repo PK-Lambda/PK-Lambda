@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 👨🏻‍💻  A Little Bit About Me and My Interests
 
 name: Peter Sobko
@@ -29,5 +27,5 @@ technical_background:
   
 2026 Goal: ["Complete Odin Project Foundations."]
 hobbies: ["Code", "Zwift", "Read Non-fiction", "Meet People", "Invest", "Play with my cat" ]
--->
+
 
