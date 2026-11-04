@@ -1,16 +1,33 @@
 ## Hi there 👋
 
 <!--
-**PK-Lambda/PK-Lambda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨🏻‍💻  A Little Bit About Me and My Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+name: Peter Sobko
+located_in: Auckland, New Zealand
+current_job: Business Development Manager
+education:
+  [
+    "Currently studying part-time to become a Full-Stack Engineer", 
+    "Master's in Business Administration from the University of Auckland",
+    "Bachelor's in Chemical Sciences from the University of Auckland",
+  ]
+Founder: Arodly
+
+fields_of_interests:
+  [
+    "Full-stack Web Development",
+    "Marketing",
+    "Psychology",
+  ]
+technical_background:
+  [
+    "Odin Project - Foundations (in-progress)"
+    "Odin Project - Full Stack JavaScript (in-progress)",
+  ]
+  
+2026 Goal: ["Complete Odin Project Foundations."]
+hobbies: ["Code", "Zwift", "Read Non-fiction", "Meet People", "Invest", "Play with my cat" ]
 -->
+
