@@ -4,14 +4,13 @@
 
 name: Peter Sobko
 located_in: Auckland, New Zealand
-current_job: BDM & Founder
 
 education:
   - "Full-Stack Engineer | Odin Project"
   - "MBA | University of Auckland"
   - "BSc Chemical Sciences | University of Auckland"
 
-founder: Arodly
+start_ups: Arodly.com
 
 fields_of_interest:
   - "Full-Stack Web Development"
@@ -25,10 +24,8 @@ technical_background:
 
 hobbies:
   - "Coding"
-  - "Zwift"
+  - "Cycling in Zwift"
   - "Reading Non-Fiction"
-  - "Meeting People"
-  - "Investing"
   - "Playing with my cat"
 ```
 
